@@ -1,9 +1,9 @@
 # Lesson: Digital Storytelling
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Digital-Storytelling-Individual-Assignment: xxx
+### First and Last Name: Καρυώτης Κωνσταντίνος
+### University Registration Number: dpsd19049
+### GitHub Personal Profile: https://github.com/dpsd19049
+### Digital-Storytelling-Individual-Assignment: https://github.com/dpsd19049/Digital-Storytelling-Individual-Assignment
 
 # Introduction
 
@@ -13,7 +13,7 @@
 
 
 # 1st Deliverable
-
+Έχω γράψει το κάθε report στο κάθε unit ξεχωριστά. Σε περίπτωση που είναι λάθος διορθώστε με.
 
 # 2nd Deliverable
 
