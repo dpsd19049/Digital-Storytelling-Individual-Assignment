@@ -29,10 +29,15 @@ https://user-images.githubusercontent.com/100949467/229299917-d8f1bfc8-deb6-4fc5
 
 # 2nd Deliverable
 Ολοκλήρωσα το tutorial του Unit-5 αφού κατέβασα τα αρχεία που μας δίνονται και στη συνέχεια προσπάθησα να ολοκληρώσω το creative challenge κάνοντας αυτά που μας ζητούσε. Έβαλα 3 Virtual Camera shots και ένα blended shot μεταξύ των δύο από αυτών.
+
 https://user-images.githubusercontent.com/100949467/236699421-bbdb1f54-aa6e-4015-a423-692f6b45c3ba.mp4
+
 Ολοκλήρωσα το tutorial του Unit-6 αφού κατέβασα τα αρχεία που μας δίνονται και στη συνέχεια προσπάθησα να ολοκληρώσω το creative challenge κάνοντας αυτά που μας ζητούσε. Πρόσθεσα και "πείραξα" τις ρυθμίσεις του fog. Πρόσθεσα 2 πηγές φωτός, ένα point και ένα spotlight. Και τέλος άλλαξα το bloom, το color grading και το depth of field. Δεν μπόρεσα να κάνω mp4 αρχείο και έκανα screenshot.
+
 ![screenshot1](https://user-images.githubusercontent.com/100949467/236699632-8514283e-c22a-4023-a355-274408c625d9.png)
+
 Ολοκλήρωσα το tutorial του Unit-7 αφού κατέβασα τα αρχεία που μας δίνονται και στη συνέχεια προσπάθησα να ολοκληρώσω το creative challenge κάνοντας αυτά που μας ζητούσε. Πήρα δύο έτοιμα particles και τους άλλαξα τις ρυθμίσεις έτσι ώστε το ένα να φαίνεται σαν sparks και το άλλο σαν smoke τοποθετώντας τα μεσα στον κάδο σκουπιδιών. Επίσης έκανα duplicate το ένα από τα δύο particles και το έβαλα στο έδαφος ώστε να φαίνεται ότι αναβλίζει από τους υπονόμους. Και τέλος ήθελε τουλάχιστον έναν ήχο και χρησιμοποίησα έναν από το unity.
+
 https://user-images.githubusercontent.com/100949467/236699891-091e96e4-fdbf-409a-9887-8357c9ea5f00.mp4
 
 
